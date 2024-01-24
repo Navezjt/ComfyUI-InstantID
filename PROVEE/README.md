@@ -1,0 +1,1 @@
+https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID
